@@ -21,4 +21,4 @@ public class Sequencing {
   }
 }
 
-// Does not compile. Price is still not defined, unable to compile until it is defined. 
+// Does not compile. Price is still not defined, unable to initialize until it is defined. 
